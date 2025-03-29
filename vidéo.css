@@ -1,0 +1,11 @@
+.video {
+
+    display: block;
+    margin: 20px;
+    width: 100%;
+    outline: none;
+    object-fit: cover;
+    padding: 5PX;
+    aspect-ratio: 1/1;
+
+}
